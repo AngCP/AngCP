@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-###### 🔭 I’m currently working on OpSeeker/BeWay as an Interim CTO.
+###### 🔭 I’m currently working on OpSeeker/BeWay as a CTO.
